@@ -4,7 +4,9 @@ ReefSense is an HCI bachelor project enabling fabrication of prototypes of a sys
 
 The project provides 3D-printable models of the system: The parasol, pinch valve controller, gears, and water wheel.
 
-## ![1717580838096](image/README/1717580838096.png)Remarks on the designs
+![1717581506043](image/README/1717581506043.png)
+
+## Remarks on the designs
 
 Several gears are provided. Each file is called gearX.stl, where X denotes the number of teeth on the gear.
 
